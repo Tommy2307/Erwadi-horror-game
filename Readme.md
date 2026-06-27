@@ -1,93 +1,73 @@
-# Erwadi
+# THE FIFTH<img width="1254" height="1254" alt="ChatGPT Image Jun 24, 2026, 01_57_05 PM" src="https://github.com/user-attachments/assets/54c5024d-ccd6-4dd9-8bdc-a711d2cf9e1c" />
 
-A short PSX-style first-person horror game inspired by abandoned houses and ritualistic folklore.
 
-## Story
+> *A first-person psychological investigation horror game built with Unity.*
 
-After hearing rumors about a strange abandoned house on the outskirts of Erwadi, a group of friends decide to investigate. The player enters the house alone while the others wait outside.
+## About
 
-Inside, the house appears empty at first. While searching for a way out, the player discovers a hidden basement. Deep underground, an old radio begins playing a recorded message.
+**THE FIFTH** is a story-driven psychological horror game where you play as **Police Officer S. Virat**, investigating the mysterious disappearance of four young boys in **Chinna Kanmai, Madurai**.
 
-The recording reveals a disturbing truth:
+After a local reporter named **Rani** goes missing while investigating the same case, you're assigned to inspect an abandoned house connected to the disappearances.
 
-This is not a haunted place.
+Explore, inspect evidence, update your investigation notebook, and uncover the truth hidden within.
 
-A deranged man has been kidnapping children and performing ritual sacrifices in an attempt to recreate the ancient Purushamedha ritual. Believing he can achieve spiritual rebirth through sacrifice, he has turned the abandoned house into a place of horror.
+---
 
-Moments after hearing the recording, a door suddenly opens somewhere in the darkness.
+## Features
 
-The killer knows someone is inside.
+- First-Person Investigation
+- Psychological Horror
+- Dynamic Investigation Notebook
+- Evidence Inspection System
+- Environmental Storytelling
+- Atmospheric Exploration
+- PSX-Inspired Visual Style
+- Story-Driven Gameplay
 
-The objective changes from exploration to survival.
-
-## Gameplay
-
-* First-person exploration
-* PSX-inspired graphics
-* Key and door interaction system
-* Inventory-based progression
-* Basement discovery
-* Environmental storytelling
-* Radio audio logs
-* Survival horror chase sequence
-* Multiple atmospheric sound effects
-* Flashlight navigation
-
-## Current Features
-
-### Completed
-
-* WASD Movement
-* Mouse Look
-* Sprint System
-* Interaction System
-* Key Pickup System
-* Inventory System
-* Door Unlocking
-* Door Open/Close Animations
-* Flashlight
-* PSX Visual Style
-* House Interior Layout
-* Basement Area
-* Horror Atmosphere
-
-### In Progress
-
-* Killer AI
-* Chase Mechanics
-* Radio Story Event
-* Sound Design
-* Final Escape Sequence
-* Main Menu
-* Game Ending
+---
 
 ## Controls
 
-| Key     | Action      |
-| ------- | ----------- |
-| W A S D | Move        |
-| Mouse   | Look Around |
-| Shift   | Sprint      |
-| E       | Interact    |
-| F       | Flashlight  |
+| Key | Action |
+|------|--------|
+| **W A S D** | Move |
+| **Mouse** | Look Around |
+| **E** | Interact / Inspect |
+| **F** | Flashlight |
+| **Tab** | Investigation Notebook |
+| **Esc** | Pause Menu |
 
-## Art Style
+---
 
-The game uses low-resolution PSX-inspired visuals featuring:
+## Built With
 
-* Pixelated textures
-* Low-poly models
-* Dark lighting
-* Retro horror atmosphere
+- Unity
+- C#
+- TextMesh Pro
 
-## Development
+---
 
-Engine: Unity 6
+## Development Status
 
-Genre: First-Person Horror
+🚧 **Early Development**
 
-Platform: Windows
+Current Progress:
+- ✅ Player Controller
+- ✅ Flashlight System
+- ✅ Interaction System
+- ✅ Investigation Notebook
+- ✅ Evidence System
+- 🚧 Story Implementation
+- 🚧 House Environment
+- 🚧 Audio & Atmosphere
+- ⏳ Final Polish
 
-Style: PSX / Retro Horror
+---
 
-Status: In Development
+## Screenshots
+
+Coming Soon...
+
+---
+
+*"Every clue tells a story. Every page brings you closer to the truth."*
