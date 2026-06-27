@@ -1,4 +1,5 @@
-# THE FIFTH<img width="1254" height="1254" alt="ChatGPT Image Jun 24, 2026, 01_57_05 PM" src="https://github.com/user-attachments/assets/54c5024d-ccd6-4dd9-8bdc-a711d2cf9e1c" />
+# THE FIFTH<img width="1254" height="574" alt="ChatGPT Image Jun 24, 2026, 01_57_05 PM-Photoroom" src="https://github.com/user-attachments/assets/d4040720-7d2c-4465-a679-d0ff10235b19" />
+
 
 
 > *A first-person psychological investigation horror game built with Unity.*
